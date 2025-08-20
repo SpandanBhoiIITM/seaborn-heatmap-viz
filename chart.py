@@ -30,5 +30,5 @@ plt.xlabel("Day of Week")
 plt.ylabel("Hour of Day")
 
 
-plt.savefig("chart.png", dpi=64, bbox_inches="tight")
+plt.savefig("chart.png", dpi=64)
 plt.close()
